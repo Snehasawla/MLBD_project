@@ -27,7 +27,7 @@ Dataset link: https://www.kaggle.com/datasets/saurabhbagchi/books-dataset
    ```
 
 4. **Access the Application**
-   - Open your web browser and go to: http://127.0.0.1:5000
+   - Open your web browser and go to: http://127.0.0.1:8080
    - The application will be running in debug mode
 
 ### Features
